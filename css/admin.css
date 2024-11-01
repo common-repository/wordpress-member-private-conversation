@@ -1,0 +1,29 @@
+ul.nm-convo-detail
+{
+	margin:0;
+	padding:0;
+}
+
+ul.nm-convo-detail li
+{
+	list-style:none;
+}
+
+ul.nm-convo-detail li.convo-head
+{
+	font-weight:bold;
+	border-bottom:#CCC 1px dashed;
+}
+
+ul.nm-convo-detail li.convo-text
+{
+	margin-bottom:14px;
+}
+
+
+ul.nm-convo-detail li.convo-attachment
+{
+	color:#666;
+	font-style:italic;
+	margin-bottom:25px;
+}

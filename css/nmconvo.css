@@ -1,0 +1,52 @@
+/* CSS Document */
+
+.nmconvo-clear{
+	clear:both;
+	display: block;	
+}
+
+.nmconvo-file-preview{
+	width: 175px;
+    text-align: center;
+    border: 1px solid;
+    float: left;
+}
+
+.nmconvo-file-name{
+	display: block;
+    padding: 5px;
+    background: #ccc;
+}
+
+.nmconvo-user-name{
+    padding: 3px 5px;
+    background: #ccc;
+    margin: 0 5px;
+}
+
+.nmcnovo-msg-row{
+    cursor:pointer;
+}
+
+.nmconvo-inbox-header{
+    margin-bottom: 25px;
+}
+.nmconvo-create-btn{
+    font-size: 18px;
+    float: right;
+    background: #090777;
+    color: #fff;
+    padding: 7px;
+    cursor:pointer;
+}
+
+.nmconvo-parties-reply{
+    display: block;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.modal-body {
+    max-height: calc(100vh - 200px);
+    overflow-y: auto;
+}

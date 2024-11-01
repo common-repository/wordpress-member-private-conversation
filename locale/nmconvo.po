@@ -1,0 +1,347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Najeeb <ceo@najeebmedia.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:140
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:183
+msgid " - file attached"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/nm_convo.php:1
+msgid " attached successfully"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/load-convo-detail.php:51
+#: nm-wp-member-convo-pro-v2/load-convo-detail-admin.php:50
+msgid " wrote on "
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:374
+msgid "All"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Allow attachment"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Allow users to send messages to selected roles, (default to all)"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:140
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:183
+msgid "Attach Files"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:132
+#: nm-wp-member-convo-pro-v2/_template_convo.php:132
+msgid "Attach file"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:162
+#: nm-wp-member-convo-pro-v2/_template_convo.php:160
+msgid "Back to Conversations"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/load-convo-detail-admin.php:21
+msgid "Back to List"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Conversation Attachment"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Conversations Limit"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Convo Delete Conversation"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Convo Sent Conversation"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/listings-all.php:26
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:38
+#: nm-wp-member-convo-pro-v2/_template_convo.php:38
+msgid "Deleted selected"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/listings-all.php:25
+msgid "Detail"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Dialog Messages"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Email Notification Settings"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "File Size Limit"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "File Types/Extensions Allow"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "General Settings"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "How many conversations do you want to list on a page/view"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "How many files can be attached with one conversation?"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "If you want to allow users to send attachment then tick this"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:18
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:31
+#: nm-wp-member-convo-pro-v2/_template_convo.php:18
+#: nm-wp-member-convo-pro-v2/_template_convo.php:31
+msgid "Inbox"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:26
+#: nm-wp-member-convo-pro-v2/_template_convo.php:26
+msgid "Inbox is empty"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "It will be append to each message sent to user"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Leave blank for all types. Enter file types like"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Max Files Allowed"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Max file size allow to upload in bytes e.g: 1 MB = 1048576"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:118
+#: nm-wp-member-convo-pro-v2/_template_convo.php:118
+msgid "Message"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Message Body"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Message Footer"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:39
+msgid "Order by Date"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:39
+msgid "Order by Name"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:168
+#: nm-wp-member-convo-pro-v2/_template_convo.php:166
+msgid "Reply"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:109
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:115
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:121
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:172
+#: nm-wp-member-convo-pro-v2/_template_convo.php:109
+#: nm-wp-member-convo-pro-v2/_template_convo.php:115
+#: nm-wp-member-convo-pro-v2/_template_convo.php:121
+#: nm-wp-member-convo-pro-v2/_template_convo.php:171
+msgid "Required"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:409
+msgid "Reset"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:395
+msgid "Save Changes"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:150
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:189
+#: nm-wp-member-convo-pro-v2/_template_convo.php:148
+#: nm-wp-member-convo-pro-v2/_template_convo.php:186
+msgid "Send"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:106
+#: nm-wp-member-convo-pro-v2/_template_convo.php:106
+msgid "Sent to"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Settings reset."
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Settings saved."
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:20
+#: nm-wp-member-convo-pro-v2/_template_convo.php:20
+msgid "Start Convo"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:112
+#: nm-wp-member-convo-pro-v2/listings-all.php:23
+#: nm-wp-member-convo-pro-v2/_template_convo.php:112
+msgid "Subject"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "This message will be sent to user on when his message will be replied by other user"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "This message will be sent to user on when new conversation is started. User shortcodes e.g:<br /"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "This subject will be used when message will be replied. User shortcodes e.g:<br /"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "This subject will be used when new conversation is started"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/listings-all.php:18
+msgid "Total Conversations"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Type a message here, it will be shown when user delete conversation(s). <br />e.g: Conversation(s) deleted successfully"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Type a message here, it will be shown when user type invalid username. <br />e.g: User not found"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Type a message here, it will be shown when user will send/reply  conversation. <br />e.g: Conversation is sent successfully"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/listings-all.php:16
+msgid "User Conversations Statistics"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "User does not Exist Message"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/listings-all.php:24
+msgid "Users"
+msgstr ""
+
+#. Text in function
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:416
+msgid "Widgets reset."
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/_template_convoz.php:102
+#: nm-wp-member-convo-pro-v2/_template_convo.php:101
+msgid "Write New Message"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:268
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:330
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:386
+msgid "desc"
+msgstr ""
+
+#. Text in echo
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:370
+#: nm-wp-member-convo-pro-v2/convo-plugin-options.php:395
+msgid "name"
+msgstr ""
+
